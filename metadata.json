@@ -1,0 +1,6 @@
+{
+  "name": "StockTrend - Stock Analysis & Indicator Dashboard",
+  "description": "Real-time stock technical analysis dashboard with candlestick & line charts, SMA, EMA, RSI indicators, custom date filtering, performance metrics, and CSV/screenshot export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
